@@ -1,7 +1,7 @@
 {
   "env": {
     "REACT_APP_ENDPOINT": {
-      "description": "Your Appwrite endpoint",
+      "description": "hi Appwrite endpoint",
       "value": "APP_ENDPOINT",
       "required": true
     },
